@@ -61,7 +61,7 @@ const Index = () => {
           placeholder="Enter a todo"
           mr={2}
         />
-        <Button onClick={handleAddTodo} colorScheme="blue" px={8}>
+        <Button onClick={handleAddTodo} colorScheme="green" px={8}>
           <FaPlus />
         </Button>
       </Flex>
